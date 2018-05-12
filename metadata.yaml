@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '32087'
     url: http://www.gutenberg.org/2009/agents/32087
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26545#Antonio-Azor-npeque-o-libro-en-que-se-habla-de-la-vida-de-este-peregrino-se-or
 gutenberg_issued: '2008-09-06'
 gutenberg_type: Text
 identifiers:
